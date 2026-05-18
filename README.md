@@ -1,5 +1,5 @@
-#Vietnam–US Trade & Tariff Impact Analysis
-#Overview
+##Vietnam–US Trade & Tariff Impact Analysis
+##Overview
 
 This project analyzes the potential impact of new U.S. tariff policies on Vietnam’s export economy, especially under the scenario where Vietnamese goods may face tariffs up to 46% in the U.S. market. The study combines trade data, tariff policies, and macroeconomic indicators to evaluate risks, identify vulnerable industries, and recommend strategic market diversification solutions.
 
@@ -15,9 +15,6 @@ The dataset used in this project is available on Kaggle:
 
 🔗 [Vietnam–US Trade & Tariff Dataset](https://www.kaggle.com/datasets/cmanhh/data-tc-ng-thu-quan)
 
-You can download the dataset directly from Kaggle or use the Kaggle API:
-
-```bash
 kaggle datasets download -d cmanhh/data-tc-ng-thu-quan
 The project uses multiple datasets related to:
 
@@ -28,12 +25,12 @@ Export product categories
 GDP and macroeconomic indicators
 Population and income data of potential export markets
 
-#Tools & Technologies
+##Tools & Technologies
 Power BI — dashboard visualization and interactive analytics
 RStudio — data preprocessing and statistical analysis
 Python — data analysis and advanced analytics
 
-#Key KPIs Analyzed
+##Key KPIs Analyzed
 Trade & Export KPIs
 Vietnam total exports (2024): 393 billion USD
 Vietnam total imports (2024): 369 billion USD
@@ -78,7 +75,7 @@ India	17
 ASEAN	16.5
 Korea	16
 Hong Kong	16
-Key Insights
+##Key Insights
 1. Vietnam is Highly Dependent on the U.S. Market
 
 The United States accounts for over 30% of Vietnam’s total exports, making Vietnam highly vulnerable to changes in U.S. trade policies.
@@ -128,7 +125,7 @@ Tariff impact estimates are scenario-based assumptions.
 External macroeconomic data may contain reporting delays.
 Project Outcome
 
-#This project demonstrates how data analytics and business intelligence tools can support:
+
 
 International trade analysis
 Risk assessment
