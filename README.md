@@ -9,9 +9,17 @@ Identify export sectors most vulnerable to tariff increases.
 Analyze Vietnam’s dependence on the U.S. market.
 Recommend alternative export markets and long-term trade strategies.
 Support decision-making through data analytics and visualization.
-Dataset
 
-#The project uses multiple datasets related to:
+## Dataset
+The dataset used in this project is available on Kaggle:
+
+🔗 [Vietnam–US Trade & Tariff Dataset](https://www.kaggle.com/datasets/cmanhh/data-tc-ng-thu-quan)
+
+You can download the dataset directly from Kaggle or use the Kaggle API:
+
+```bash
+kaggle datasets download -d cmanhh/data-tc-ng-thu-quan
+The project uses multiple datasets related to:
 
 Vietnam import/export activities
 U.S.–Vietnam trade balance
